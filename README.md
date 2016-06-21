@@ -1,3 +1,3 @@
 
 # AWS
-AWS simple API
+AWS: simple request from amazon
